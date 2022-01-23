@@ -10,8 +10,15 @@ My name is Prince Thind and I'm a full stack web developer. I'm from Punjab, Ind
 
 <br>
 <hr>
-<br>
 
+- 💼 Looking for work Opportunities
+- 🎓 Pursuing B.tech CSE(Hons.) from LPU
+- 🌱 Currently learning Advanced Web Technologies
+- 🖥️ Programming is my Passion
+- 🐧 Linux is Love
+
+<hr>
+<br>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=prince-thind&show_icons=true&theme=dark" width = 400>
