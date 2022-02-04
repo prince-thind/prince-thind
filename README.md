@@ -29,4 +29,4 @@ My name is Prince Thind and I'm a full stack web developer. I'm from Punjab, Ind
 
 [1]: https://github.com/prince-thind
 [2]: https://www.linkedin.com/in/princethind/
-[3]: https://prince-thind.gihtub.io/
+[3]: https://prince-thind.github.io/
