@@ -35,7 +35,9 @@ I am Prince Thind and I am a confidently skilled web developer. Over the years, 
 # Talk is cheap. Show me the code!
 
 <p align="center">
+<kbd>
 <img src="./code-joke.gif" />
+</kbd>
 </p>
 
 <br>
