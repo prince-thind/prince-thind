@@ -8,13 +8,13 @@
 
 # Hello! 👋
 
-I am Prince Thind and I am a confidently skilled web developer. Over the years, I have worked with many technologies and now I like to identify myself as someone who lives and breathes in javascript. Why not checkout my [Portfolio][0] for a better introduction?
+I am Prince Thind and I am a ~~Spider Man~~ web developer. Over the past few years, I have worked with many technologies and now I like to identify as someone who has ~~no social life~~ good command of many modern web technologies. Head straight to my [portfolio][0] for a ~~cooler~~ professional introduction or to my [about][1] page for a more casual introduction. Oh and I use the free and ~~far more superior~~ Open source Operating system GNU/Linux.
 
 <hr>
 
-- 💼 ~~Looking for work Opportunities~~ (not until I graduate)
+- 🌱 Always learning new stuff
 - 🎓 Pursuing B.tech CSE(Hons.) from LPU
-- 🌱 The marvels of technology still fascinate me
+- 💼 ~~Looking for work opportunities~~ (not until I graduate)
 - 🖥️ I like ~~communism~~ Open Source
 - 🐧 Linux is Love
 
@@ -45,3 +45,4 @@ I am Prince Thind and I am a confidently skilled web developer. Over the years, 
 <!-- links to your social media accounts -->
 
 [0]: https://prince-thind.github.io/
+[1]: https://prince-thind.github.io/about
