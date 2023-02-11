@@ -8,7 +8,7 @@
 
 # Hello! 👋
 
-I am Prince Thind and I am a ~~Spider Man~~ web developer. Over the past few years, I have worked with many technologies and now I like to identify as someone who has ~~no social life~~ good command of many modern web technologies. Head straight to my [portfolio][0] for a ~~cooler~~ professional introduction or to my [about][1] page for a more casual introduction. Oh and I use the free, open source and far more superior Operating system GNU/Linux.
+I am Prince Thind and I am a ~~Spider Man~~ web developer. Over the past few years, I have worked with many technologies and now I like to identify as someone who has ~~no social life~~ good command of many modern web technologies. Head straight to my [portfolio][0] for a ~~cooler~~ professional introduction or to my [about][1] page for a more casual introduction. Oh and I use the free, open source and far more superior Operating system GNU/Linux. My GPG Public key can be found [Here](https://keys.openpgp.org/search?q=A82F31738FD6E139756D138507A6F22BE2B969C1).
 
 <hr>
 
