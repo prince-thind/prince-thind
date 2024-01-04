@@ -1,14 +1,14 @@
-<p align="center">
+<!-- <p align="center">
 <a href="https://prince-thind.github.io/">
 <kbd>
-<img src="./banner.png" />
-</kbd> 
+ <img src="./banner.png" />
+</kbd>
 </a>
-</p>
+-->
 
 # Hello! 👋
 
-Hey there, my name is Prince Thind and I'm a web developer who loves to keep up with the latest technologies. I've had the chance to work with many cutting-edge tools and have become pretty skilled at what I do, if I do say so myself!
+I'm Prince Thind, an IT enthusiast dedicated to staying updated with the latest in technology. Throughout my career, I've delved into various IT facets, honing my skills with a multitude of tools and systems.
 
 If you want to check out some of the cool projects I've been working on, head on over to my [portfolio][0]. And if you're curious about who I am as a person (beyond my work, of course), my [about][1] page has got you covered.
 
