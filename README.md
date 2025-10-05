@@ -1,3 +1,4 @@
+
 <p align="center">
 <a href="https://prince-thind.github.io/">
 <kbd>
@@ -8,41 +9,47 @@
 
 <div align="center">
 
-# Some git statistics
+# GitHub Insights
 
 </div>
 
-<p  align="center">
+<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prince-thind&theme=github_dark">
 </p>
 
-# Prince Thind - Data Administrator
+# Prince Thind – Software Developer
 
-I am an enthusiastic **Data Administrator** with a strong passion for structuring, securing, and optimizing data management systems. Over the years, I have developed expertise in ensuring data availability, reliability, and integrity through efficient data administration practices. My keen interest in **information technology** drives my continuous learning and professional development, particularly in **data management** and **business optimization**. If you’d like to see some of my work, you can check out my portfolio [here][0].
+I am a passionate **Software Developer** with hands-on experience in **JavaScript**, **Linux**, and **open-source technologies**. I thrive on solving complex problems, building efficient solutions, and continuously learning to stay ahead in the ever-evolving world of software development.
 
-I am proficient in **data administration tools and methodologies**, with expertise in data collection, storage, and security management. My technical skills include **Linux**, **SQL**, and **Git**, which enable me to efficiently manage and maintain robust data systems. My ability to collaborate effectively in diverse environments is enhanced by my fluency in both English and French.
+During my **internship at Bluelearn**, I worked on developing and improving web-based applications using **JavaScript**. This experience strengthened my understanding of modern development practices, collaborative coding, and agile workflows. I enjoy writing clean, maintainable code and transforming ideas into functional digital experiences.
 
-I hold a **Bachelor of Technology (B.Tech)** in **Computer Science and Engineering (Honors)** from **Lovely Professional University (LPU)**, where I graduated with First Division honors. Additionally, I earned a **Post-Graduate Certificate in Information Systems Business Analysis** from **Northern College**, which has further honed my ability to implement data policies and lead data governance initiatives. These academic achievements have solidified my understanding of **data management**, **security protocols**, and **business strategy**.
+If you’d like to explore my work or projects, visit my portfolio [here][0].
 
-### **Key Strengths:**
+### **Technical Skills:**
 
-- **Data Administration Expertise**: Proven ability to structure, secure, and optimize data systems to ensure efficiency and reliability.
-- **Security and Governance**: Skilled in implementing data policies to maintain data integrity and compliance with industry standards.
-- **Technical Proficiency**: Expertise in SQL, Linux, Git, and data storage systems for efficient data management.
-- **Global Perspective**: Open to opportunities to collaborate and contribute to projects worldwide.
+* **Programming & Development**: JavaScript (ES6+), HTML, CSS, Git
+* **System & Tools**: Linux, SQL, GitHub
+* **Collaboration**: Experienced in agile teamwork and open-source contribution
+* **Continuous Learning**: Always exploring new frameworks, tools, and technologies
 
-I am always open to exploring **global opportunities** that align with my expertise in data administration and innovation.
+### **Education:**
 
-Thank you for considering my profile. Please feel free to contact me with any questions or opportunities.
+* **Bachelor of Technology (B.Tech)** in **Computer Science and Engineering (Honors)** – *Lovely Professional University (LPU)*
+* **Post-Graduate Certificate in Information Systems Business Analysis** – *Northern College*
+
+These programs strengthened my foundation in **software design**, **data handling**, and **problem-solving**, preparing me to contribute effectively to real-world software projects.
 
 ---
 
-### **Summary:**
+### **Summary**
 
-- 🌱 Open to **global opportunities** in data administration and management
-- 💼 Strong background in **data management and security**
-- 🌟 Passionate about **continuous learning** and staying at the forefront of **data administration trends**
-- 🐧 Skilled in **Linux** and **open-source development**
-- 🤝 Collaborative, team-oriented, and committed to **delivering results** through efficient data management
+* 💻 Passionate **Software Developer** with hands-on experience in **JavaScript**
+* 🧠 Strong foundation in **computer science principles** and **Data Structures and Algorithms**
+* 🌍 Open to **global opportunities** in software development and technology innovation
+* 🐧 Proficient in **Linux** and comfortable working with **open-source environments**
+* 🚀 Committed to **continuous improvement**, teamwork, and building impactful digital solutions
+
+---
 
 [0]: https://prince-thind.github.io/
+
