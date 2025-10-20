@@ -18,7 +18,7 @@
 
 # Prince Thind - Data Administrator
 
-I am an enthusiastic **Data Administrator** with a strong passion for structuring, securing, and optimizing data management systems. Over the years, I have developed expertise in ensuring data availability, reliability, and integrity through efficient data administration practices. My keen interest in **information technology** drives my continuous learning and professional development, particularly in **data management** and **business optimization**. If you’d like to see some of my work, you can check out my portfolio [here][0].
+I am an enthusiastic **Data Administrator** with a strong passion for structuring, securing, and optimizing data management systems. Over the years, I have developed expertise in ensuring data availability, reliability, and integrity through efficient data administration practices, including a year of experience as a **Data Administrator** at Akaal Ventures, a Ludhiana based IT startup. My keen interest in **information technology** drives my continuous learning and professional development, particularly in **data management** and **business optimization**. If you’d like to see some of my work, you can check out my portfolio [here][0].
 
 I am proficient in **data administration tools and methodologies**, with expertise in data collection, storage, and security management. My technical skills include **Linux**, **SQL**, and **Git**, which enable me to efficiently manage and maintain robust data systems. My ability to collaborate effectively in diverse environments is enhanced by my fluency in both English and French.
 
